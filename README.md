@@ -1,4 +1,4 @@
-# pa3 : Finding Strongly Connected Components
+# Finding Strongly Connected Components
 
 ## Files:
 
